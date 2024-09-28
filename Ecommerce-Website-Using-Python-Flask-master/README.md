@@ -1,9 +1,5 @@
 # E-Commerce-Website-Using-Python
 
-
-## Summary
-Hello friends, This is my first full e-commerce project with Python-Flask. This is free. Anybody can use and moderate this project.
-
 ## Platform Used
 ### Front-End
   (i) HTML5 <br>
@@ -34,5 +30,3 @@ Hello friends, This is my first full e-commerce project with Python-Flask. This 
 (iii) See all Orders <br>
 (iv) Manage all Users <br>
 
-## Conclusion
-There are also many more feature which are not in the list. Feel free to use this project
